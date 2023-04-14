@@ -1,7 +1,8 @@
 ### Hi, I'm Ognjen 👋
 
 **`Passionate student with a particular focus on Web Development.`** <br>
-I'm planning to become a professional web developer and I'm exploring cyber security 🎩.  
+I'm planning to become a professional web developer, also I'm exploring cyber security 🎩.
+ 
 
 #
 
@@ -27,13 +28,14 @@ I'm planning to become a professional web developer and I'm exploring cyber secu
 </br>
 
 #
-#
+
+### 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Kokonoi&show_icons=true&theme=dark)
 
 
 
-
+### 🙋 About
 - 🔭 I’m currently working on [TOP](https://www.theodinproject.com) Projects
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with writing a good commit messages

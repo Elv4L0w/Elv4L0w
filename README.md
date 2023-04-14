@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on TOP Projects[TOP](https://www.theodinproject.com)
+- 🌱 I’m currently learning web development
+- 🤔 I’m looking for help with writing a good commit messages
+- 📫 How to reach me: my discord tag is in my bio
+
 <!--
 **Kokonoi/Kokonoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

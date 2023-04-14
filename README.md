@@ -33,7 +33,7 @@ I'm planning to become a professional web developer, also I'm exploring cyber se
 
 ![](https://github-readme-stats.vercel.app/api?username=Kokonoi&show_icons=true&theme=dark)
 
-
+#
 
 ### 🙋 About
 - 🔭 I’m currently working on [TOP](https://www.theodinproject.com) Projects

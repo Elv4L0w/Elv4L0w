@@ -35,7 +35,7 @@ I'm planning to become a professional web developer, also I'm exploring cyber se
 
 #
 
-### 🙋 About
+### 🙋‍♂️ About
 - 🔭 I’m currently working on [TOP](https://www.theodinproject.com) Projects
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with writing good commit messages

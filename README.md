@@ -1,14 +1,11 @@
 ### Hi, I'm Ognjen 👋
 
 **`Passionate student with a particular focus on Web Development.`** <br>
-I'm planning to become a professional web developer, also I'm exploring cyber security 🎩.
- 
+I'm planning to become a professional web developer, also I'm exploring cyber security 🎩!
 
 #
 
 ### 🛠 Languages and Tools
-
-
 
 <!-- <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
 <!-- <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /> -->
@@ -67,12 +64,11 @@ I'm planning to become a professional web developer, also I'm exploring cyber se
 #
 
 ### 🙋‍♂️ About
+
 - 🔭 I’m currently working on [TOP](https://www.theodinproject.com) Projects
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with writing good commit messages
 - 📫 How to reach me: my discord tag is in my profile bio
-
- 
 
 <!--
 **Kokonoi/Kokonoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

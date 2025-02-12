@@ -1,7 +1,7 @@
 ### Hi, I'm Ognjen 👋
 
-**`Passionate student with a particular focus on Web Development.`** <br>
-I'm planning to become a professional web developer, also I'm exploring cyber security 🎩!
+<!--**`Passionate student with a particular focus on Web Development.`** <br>-->
+<!--I'm planning to become a professional web developer, also I'm exploring cyber security 🎩!-->
 
 #
 
@@ -62,13 +62,13 @@ I'm planning to become a professional web developer, also I'm exploring cyber se
 ![](https://github-readme-stats.vercel.app/api?username=Kokonoi&show_icons=true&theme=dark)
 
 #
-
+<!---
 ### 🙋‍♂️ About
 
 - 🔭 I’m currently working on [TOP](https://www.theodinproject.com) Projects
 - 🌱 I’m currently learning web development
 - 🤔 I’m looking for help with writing good commit messages
-<!--- 📫 How to reach me: -->
+ 📫 How to reach me: -->
 
 <!--
 **Kokonoi/Kokonoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

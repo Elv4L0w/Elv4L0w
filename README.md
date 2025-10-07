@@ -1,7 +1,4 @@
-### Hi, I'm Ognjen 👋
-
-<!--**`Passionate student with a particular focus on Web Development.`** <br>-->
-<!--I'm planning to become a professional web developer, also I'm exploring cyber security 🎩!-->
+### Hello there 👋
 
 #
 
